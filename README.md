@@ -1,7 +1,6 @@
 # For_LRE_Map_corpus
-This repository is for LRE Map. 
 
-We used the data which is WIT3, OPUS, Production corpus, synthetic corpus in the paper. 
+We used the data that is WIT3, OPUS, Production corpus, synthetic corpus in the paper. 
 
 We upload our synthetic source Korean-Arabic bilingual corpus.
 We can share this corpus.
